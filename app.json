@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "dynamicRouteTesting",
-    "slug": "dynamicRouteTesting"
+    "slug": "dynamicRouteTesting",
+    "android": {
+      "package": "com.galaxycard.dynamicRouteTesting"
+    },
+    "ios": {
+      "bundleIdentifier": "com.galaxycard.dynamicRouteTesting"
+    }
   }
 }
